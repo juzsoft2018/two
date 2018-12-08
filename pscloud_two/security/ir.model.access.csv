@@ -1,2 +1,2 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_pscloud_two_subject,pscloud.two.subject,pscloud_two.model_pscloud_subject,base.group_user,1,1,1,1
+access_pscloud_two_subject,pscloud.two.subject,pscloud_two.model_pscloud_two_subject,base.group_user,1,1,1,1

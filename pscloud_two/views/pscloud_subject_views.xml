@@ -1,0 +1,23 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<odoo>
+    <data>
+
+        <record id="view_training_subject_tree" model="ir.ui.view">
+            <field name="name">pscloud.two.subject.tree</field>
+            <field name="model">pscloud.two.subject</field>
+            <field name="arch" type="xml">
+                <tree string="客户列表">
+                    <field name="name"/>
+                    <field name="lxfs"/>
+                    <field name="dz"/>
+                    <field name="desc"/>
+                </tree>
+            </field>
+        </record>
+
+       
+
+
+
+    </data>
+</odoo>

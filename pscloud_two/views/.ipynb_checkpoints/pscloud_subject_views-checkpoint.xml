@@ -3,8 +3,8 @@
     <data>
 
         <record id="view_training_subject_tree" model="ir.ui.view">
-            <field name="name">pscloud.subject.tree</field>
-            <field name="model">pscloud.subject</field>
+            <field name="name">pscloud.two.subject.tree</field>
+            <field name="model">pscloud.two.subject</field>
             <field name="arch" type="xml">
                 <tree string="客户列表">
                     <field name="name"/>

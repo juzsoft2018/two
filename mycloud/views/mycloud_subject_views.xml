@@ -2,7 +2,7 @@
 <odoo>
     <data>
 
-        <record id="view_training_subject_tree" model="ir.ui.view">
+        <record id="view_training_subject_tree111" model="ir.ui.view">
             <field name="name">mycloud.subject.tree</field>
             <field name="model">mycloud.subject</field>
             <field name="arch" type="xml">

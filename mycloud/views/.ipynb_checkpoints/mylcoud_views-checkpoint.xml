@@ -2,6 +2,6 @@
 <odoo>
     <data>
         <menuitem id="training_menu_root" name="客户管理" sequence="0"/>
-        <menuitem id="subject_menu" name ="客户信息" parent="training_menu_root" action="pscloud_subject_views" sequence="10"/>       
+        <menuitem id="subject_menu" name ="客户信息" parent="training_menu_root" action="action_mycloud_subject" sequence="10"/>       
     </data>
 </odoo>
